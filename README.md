@@ -1,5 +1,6 @@
-# Lenet-Pytorch-Taiwan-
+# Lenet-Pytorch-Taiwan
 不使用深度學習的框架的原則下, 完成以Lenet-5預測MNIST的實作
+Implementation of LeNet-5 from scratch
 
 ----- 
 
@@ -19,8 +20,10 @@ mAiLab_0006：Pooling
 
 mAiLab_0007：Radial Basis Function (RBF)
 
-mAiLab_0008：LeNet-5 
+mAiLab_0008：LeNet-5 (最後一篇作業)
 
+
+============= 後續討論 =============
 mAiLab_0009：Support Vector Machine 
 
 mAiLab_0010：f(a)=Atanh(Sa) 
